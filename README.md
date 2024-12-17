@@ -23,7 +23,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt autoremove -y
 ```
 
-### Install Botnet
+### Install Project
 ```
 sudo apt install -y git python3 python3-pip
 git clone https://github.com/batubyte/bb_botnet
