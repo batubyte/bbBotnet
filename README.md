@@ -13,9 +13,9 @@
 ## Installation
 
 ### Connect Server
-Option 1 ssh username@server_ip
-Option 2 https://www.putty.org
-Option 3 https://mobaxterm.mobatek.net
+* Option 1: ssh username@server_ip
+* Option 2: https://www.putty.org
+* Option 3: https://mobaxterm.mobatek.net
 
 ### Update Server
 ```
