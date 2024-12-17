@@ -1,4 +1,4 @@
-# bb_botnet
+# bbBotnet
 
 ...
 
