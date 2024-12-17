@@ -26,8 +26,8 @@ sudo apt autoremove -y
 ### 3. Install Project
 ```
 sudo apt install -y git python3 python3-pip
-git clone https://github.com/batubyte/bb_botnet
-cd bb_botnet
+git clone https://github.com/batubyte/bbBotnet
+cd bbBotnet
 pip3 install -r requirements.txt
 ...
 ```
