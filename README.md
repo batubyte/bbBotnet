@@ -12,18 +12,18 @@
 
 ## Installation
 
-### Connect Server
+### 1. Connect Server
 * Option 1: ssh username@server_ip
 * Option 2: https://www.putty.org
 * Option 3: https://mobaxterm.mobatek.net
 
-### Update Server
+### 2. Update Server
 ```
 sudo apt update && sudo apt upgrade -y
 sudo apt autoremove -y
 ```
 
-### Install Project
+### 3. Install Project
 ```
 sudo apt install -y git python3 python3-pip
 git clone https://github.com/batubyte/bb_botnet
